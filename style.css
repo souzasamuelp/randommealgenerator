@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(235, 238, 241);
+    color: rgb(48, 47, 47);
+}
+
+.container {
+    height: 100%;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+h1 {
+    text-align: center;
+    margin: 0.5rem 0;
+}
+
+h2 {
+    text-align: center;
+    margin: 0.5rem 0;
+}
+
+button {
+    color: #FFF;
+    background-color: #33C3F0;
+    border-color: #33C3F0;
+    border: 1px solid #bbb;
+    margin-bottom: 1rem;
+    border-radius: 4px;
+    padding: 10px 0;
+    width: 200px;
+    font-size: 1rem;
+    margin: 0 auto;
+}
+
+iframe {
+    border-radius: 10px;
+}
